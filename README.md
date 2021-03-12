@@ -1,7 +1,7 @@
 ### Hi there,  I'm Chandan Sarkar 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AdnaniDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chandans114483)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Chandan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/chandans114483)
 
 ## I'm a Developer & Tech enthusiast 
 - 🌱I'm currently learning everything
@@ -11,7 +11,6 @@
 ### Connect with me:
 
 
-[<img align="left" alt="devadnani" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg"/>][gmail]
 [<img align="left" alt="devadnani" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg"/>][linkedin]
 [<img align="left" alt="devadnani" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg"/>][twitter]
 [<img align="left" alt="devadnani" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg"/>][instagram]
@@ -47,4 +46,3 @@
 [linkedin]:https://www.linkedin.com/in/chandan-sarkar-028a851b8/
 [instagram]: https://www.instagram.com/chandans502/
 [twitter]:https://twitter.com/chandans114483
-[gmail]:chandans114483@gmail.com
