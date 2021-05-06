@@ -44,5 +44,5 @@
 </details>
 
 [linkedin]:https://www.linkedin.com/in/chandan-sarkar-028a851b8/
-[instagram]: https://www.instagram.com/chandans502/
+[instagram]: https://www.instagram.com/_chandan___s/
 [twitter]:https://twitter.com/chandans114483
